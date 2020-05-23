@@ -4,7 +4,9 @@
 
 Here I implemented data visualization analysis upon San Francisco's house price in last 8 years.
 
-The data source are from Redfin, US census website and USGS website. 
+The data source are from Redfin, US census website and USGS website.
+
+The main EDA are in  [EDA 1](https://github.com/JiaqiCChen123/San-Francisco-Housing-Price-Analysis/blob/master/EDA%20analysis.ipynb) and [EDA 2](https://github.com/JiaqiCChen123/San-Francisco-Housing-Price-Analysis/blob/master/EDA%20analysis%202.ipynb).
 
 ## Tools
 
@@ -32,4 +34,3 @@ I conducted the analysis in two ways:
  
  ![](images/line.png)
 
-The main EDA are in  [EDA 1](https://github.com/JiaqiCChen123/San-Francisco-Housing-Price-Analysis/blob/master/EDA%20analysis.ipynb) and [EDA 2](https://github.com/JiaqiCChen123/San-Francisco-Housing-Price-Analysis/blob/master/EDA%20analysis%202.ipynb) and 

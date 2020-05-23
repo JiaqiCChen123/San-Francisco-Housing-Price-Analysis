@@ -32,4 +32,4 @@ I conducted the analysis in two ways:
  
  ![](images/line.png)
 
-The main EDA are in [], 
+The main EDA are in  [EDA 1](https://github.com/JiaqiCChen123/San-Francisco-Housing-Price-Analysis/blob/master/EDA%20analysis.ipynb) and [EDA 2](https://github.com/JiaqiCChen123/San-Francisco-Housing-Price-Analysis/blob/master/EDA%20analysis.ipynb) and 
